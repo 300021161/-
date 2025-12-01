@@ -25,8 +25,12 @@
 # 4. Создание матрицы ответственности
 - Разработана матрица RACI с чёткими ролями
 - Определены Responsible, Accountable, Consulted, Informed
-- 
+
 # 5. Разработка плана
 - Составлен детальный план на 10 рабочих дней
 - Определены контрольные точки и митинги
+
+
+##
+[Расчёты фазы 2](https://docs.google.com/spreadsheets/d/1VMBZB4TR1Q9JicV1tT0Z_ucWhKuabjs15i6ZJnm0hnA/edit?gid=0#gid=0)
 
